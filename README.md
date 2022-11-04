@@ -1,1 +1,1 @@
-Изучаю автотесты на Python + Selenium + Allure
+Изучаю автотесты на Python + Selenium + Allure 
